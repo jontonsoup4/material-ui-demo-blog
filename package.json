@@ -13,7 +13,7 @@
     "@material-ui/core": "latest",
     "@material-ui/icons": "^4.2.1",
     "@material-ui/styles": "^4.3.0",
-    "markdown-to-jsx": "^6.10.3",
+    "markdown-to-jsx": "^6.11.4",
     "react": "latest",
     "react-dom": "latest",
     "react-router-dom": "^5.0.1",
